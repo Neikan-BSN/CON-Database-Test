@@ -156,7 +156,7 @@ F) Enhanced immune function
 Question:
 Which interventions are appropriate for managing constipation in older adults? Select all that apply.
 
-Options:
+Options:  
 A) Encourage a low-fiber diet  
 B) Increase fluid intake  
 C) Promote regular physical activity  
@@ -237,9 +237,6 @@ C) Electrolyte Imbalance
 D) Malnutrition  
 
 ### Question 22 (Chart/Exhibit)
-Certainly! Based on the provided content related to geriatric nursing care and elimination issues, here is a Chart/Exhibit question for the Next Gen NCLEX at difficulty level 2:
-
-**Question:**
 A 78-year-old female patient, Mrs. Smith, has been admitted to the hospital with symptoms of urinary incontinence and constipation. Her medical history includes mild cognitive impairment, osteoarthritis, and a recent diagnosis of depression. The physician has ordered a comprehensive elimination assessment to guide the care plan.
 
 **Chart/Exhibit:**
@@ -254,7 +251,7 @@ A 78-year-old female patient, Mrs. Smith, has been admitted to the hospital with
 | Mobility Level                | Limited due to joint pain                |
 | Current Medications           | Antidepressant, NSAID for arthritis      |
 
-**Options:**  
+Options:  
 A) Increase fiber intake and initiate a bladder training program.  
 B) Restrict fluid intake to prevent incontinence.  
 C) Encourage high caffeine beverages to stimulate bowel movements.  
