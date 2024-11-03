@@ -75,8 +75,8 @@ Which of the following is a common age-related change affecting bowel eliminatio
 Options:  
 A) Increased intestinal motility  
 B) Enhanced absorption of nutrients  
-C) Decreased gastrointestinal motility 
-D) Increased gastric acid production 
+C) Decreased gastrointestinal motility  
+D) Increased gastric acid production  
 
 ### Question 9 (Multiple Choice)
 Question:
