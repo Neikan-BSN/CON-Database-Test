@@ -3,10 +3,10 @@ Question:
 An 85-year-old male resident in a long-term care facility presents with decreased appetite, weight loss of 12% over the past six months, and difficulty chewing food. The nurse notes poor oral hygiene and reports of frequent sore gums. What is the most appropriate initial nursing intervention to address this patient's nutritional needs?
 
 Options:
-A) Initiate a high-calorie, high-protein nutritional supplement.
-B) Encourage the patient to eat small, frequent meals.
-C) Refer the patient for a dental evaluation and treatment.
-D) Educate the patient on proper oral hygiene practices.
+A) Initiate a high-calorie, high-protein nutritional supplement.  
+B) Encourage the patient to eat small, frequent meals.  
+C) Refer the patient for a dental evaluation and treatment.  
+D) Educate the patient on proper oral hygiene practices.  
 
 ### Question 2 (Multiple Choice)
 Question:
