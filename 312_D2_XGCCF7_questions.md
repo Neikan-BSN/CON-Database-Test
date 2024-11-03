@@ -197,8 +197,6 @@ C) Establish a consistent toileting schedule to manage urgency.
 D) Monitor and record the patient's fluid intake and output.  
 
 ### Question 20 (Chart/Exhibit)
-Certainly! Based on the content you've provided, here is a Chart/Exhibit question at difficulty level 2:
-
 Question:
 Mrs. J, an 82-year-old female patient, presents with confusion, dry mucous membranes, and decreased skin turgor. Her family reports she has had decreased fluid intake due to fear of incontinence. Based on the provided chart of common signs of dehydration in older adults, which interventions would be most appropriate to address her condition?
 
