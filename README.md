@@ -22,5 +22,6 @@ If there are problems with the way things are displayed/rendered/worded or whate
 Known issues:
 
 11/3/24
-Minor formatting issues in some questions/explanations
-Images not rendering in study guides
+Minor formatting issues in some questions/explanations  
+Images not rendering in study guides  
+Some generated questions aren't plausible (female with BPH)  
