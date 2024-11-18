@@ -411,7 +411,7 @@ In the realm of gas exchange, understanding pharmacological treatments is crucia
 - **Use**: Long-term control of chronic asthma and COPD.
 - **Mechanism**: Bronchodilation through non-selective inhibition of phosphodiesterase.
 - **Side Effects**: Nausea, insomnia, tremors, potential for toxicity (tachycardia, arrhythmias).
-- **Nursing Considerations**: Monitor therapeutic levels; avoid concurrent caffeine intake.
+- **Nursing Considerations**: Monitor therapeutic levels; avoid concurrent stimulant (caffeine) intake. Avoid THC, Cimetine, and other antibiotics.
 - **Patient Teaching**: Importance of adherence to dosing schedule and routine blood level checks.
 
 ## Review Questions
